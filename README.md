@@ -53,3 +53,4 @@ We advise you to use Roots / Bedrock!
 * PHPCI: https://www.phptesting.org/
 * GitLab: https://about.gitlab.com/
 * Terminal: http://ohmyz.sh/
+* WP CLI: http://wp-cli.org/
